@@ -8,5 +8,6 @@ dependencies:
   - matplotlib
   - datadotworld-py
   - descartes
+  - geoviews
 prefix: /home/durbank/anaconda3/envs/covid19
 
