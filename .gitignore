@@ -144,3 +144,7 @@ static
 
 # Ignore large data files
 /data/tl_2017_us_counties/*
+
+# Ignore generated notebooks (ipynb and html)
+*.html
+*.ipynb
